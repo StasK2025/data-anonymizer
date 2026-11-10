@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Сборка (сама сборка .exe не хранится в репозитории — см. build_exe.ps1)
+build/
+dist/
+
+# Служебные артефакты
+.playwright-mcp/
+.opencode/
+
+# ОС и редакторы
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

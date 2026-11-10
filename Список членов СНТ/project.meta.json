@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "created_at": "2026-10-23T15:12:01+00:00",
+  "code_format": "ПРЕФИКС-NNNNNN (6 цифр), например ID-000001",
+  "kdf": {
+    "algorithm": "PBKDF2-HMAC-SHA256",
+    "iterations": 600000,
+    "salt_b64": "8Jdha7JHeKrE09Kawmemeg=="
+  },
+  "password_check_b64": "ySXv1B921DmiX5TBJ6psIsB/7XE2QksvYADn/9SnP3g="
+}
